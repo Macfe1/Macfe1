@@ -38,6 +38,12 @@ Outside of tech, I enjoy **music 🎵, movies 🎬, and freediving 🏊🏽‍�
 - **Dashboard (In Progress)**  
   Developing a React-based dashboard that consumes API data and displays dynamic analytics.
 
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macfe/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mac1515.pp@gmail.com)
+
+
 <!--
 **Macfe1/Macfe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
