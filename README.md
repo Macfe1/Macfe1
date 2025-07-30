@@ -10,7 +10,6 @@ Outside of tech, I enjoy **music 🎵, movies 🎬, and freediving 🏊🏽‍�
 ## 🛠 Skills & Technologies
 
 ### Languages & Frameworks
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - Python (Flask)
 - JavaScript (React, Node.js)
 - PHP
