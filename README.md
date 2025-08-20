@@ -13,10 +13,10 @@ Outside of tech, I enjoy **music 🎵, movies 🎬, and freediving 🏊🏽‍�
 - Python (Flask)
 - JavaScript (React, Node.js)
 - PHP
-- HTML, CSS
+- HTML, CSS (Tailwind)
 
 ### Databases
-- SQL, MySQL, SQLAlchemy, MongoDB
+- SQL, MySQL, PostgreSQL, SQLAlchemy, MongoDB
 
 ### Tools & Platforms
 - Git, GitHub, Docker, NGINX
