@@ -35,7 +35,7 @@ Outside of tech, I enjoy **music 🎵, movies 🎬, and freediving 🏊🏽‍�
     A full‑stack project inspired by Airbnb, built as part of the Holberton curriculum.
 - [Custom WordPress Theme Development (In progress):](https://github.com/Macfe1/wordpress-projects)
   Creating a custom theme from scratch using PHP, WordPress, HTML, CSS, and JavaScript to build a dynamic landing page.
-- **Dashboard - Superpay Internship:**
+- [Dashboard - Superpay Internship:](https://github.com/Macfe1/dashboard)
   We designed and developed an interactive, real-time dashboard that allows SuperPay’s clients to view and analyze their key data in seconds.
 - [Capstone Presentation - Superpay:](https://github.com/Macfe1/capston-website/tree/main)
   Contains a web-based presentation of the SuperPay dashboard project, 
