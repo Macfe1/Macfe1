@@ -2,6 +2,7 @@
 
 I’m **Maria Fernanda Peña**, but you can call me **Mafe**.  
 I’m a **Web Developer** and **Social Communicator** who loves learning new things, no matter how challenging they are.  
+
 ---
 
 ## 🛠 Skills & Technologies
