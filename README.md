@@ -31,7 +31,7 @@ I’m a **Web Developer** and **Social Communicator** who loves learning new thi
 ## 🚀 Some of my projects
 - [HBnB Project (Airbnb-like Platform):](https://github.com/Macfe1/holbertonschool-hbnb/tree/main)
     A full‑stack project inspired by Airbnb, built completely from scratch.
-- [Custom WordPress Theme Development (In progress):](https://github.com/Macfe1/wordpress-projects)
+- [Custom WordPress Theme Development:](https://github.com/Macfe1/wordpress-projects)
   A custom theme from scratch using PHP, WordPress, HTML, CSS, and JavaScript to build a dynamic landing page.
 - [Dashboard - Superpay Internship:](https://github.com/Macfe1/dashboard)
   I contributed to the React frontend of an interactive dashboard enabling dynamic reporting, transaction visualizations, and real-time insights via customizable filters.
